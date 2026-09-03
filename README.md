@@ -75,7 +75,7 @@
 ## Presentation (Main Author)
 
 **2026**
-- AI Enabled Space Weather: Space AI, Deep Learning and Explainable AI for NIR Aurora Classification in Satellite Time-Series Images (UN-ISWI, Seoul, South Korea, 2026) | Invited Talks 
+- AI Enabled Space Weather: Space AI, Deep Learning and Explainable AI for NIR Aurora Classification in Satellite Time-Series Images (UN-ISWI, Seoul, South Korea, 2026) | **Invited Talks** 
 - An AI Agent Harness for Space Weather Research: STIX-to-GOES Reconstruction (UN-ISWI, Seoul, South Korea, 2026) | Poster
 - Detecting Aurora in the Near-Infrared from Space: A Deep Learning Approach with Explainable AI (CEDAR, Des Moines, USA, 2026) | Poster
 - Preliminary DEM Analysis of AR13664 Using SO/FSI and SDO/AIA with Deep Learning (Solar Orbiter–IRIS–Aditya Joint Workshop, Berlin, Germany, 2026) | Poster 
@@ -98,24 +98,24 @@
 
 
 ## Projects
-### Exploratory Study for R&D of AI-based Mid- to Long-term Space Environment Prediction Technology
-(AI 기반 중장기 우주환경 예측기술 연구 개발을 위한 탐색연구(1/1))
+### Exploratory Study for R&D of AI-based Mid- to Long-term Space Environment Prediction Technology (1/1)
+(AI 기반 중장기 우주환경 예측기술 연구 개발을 위한 탐색연구)
 - Period: 2026.03.01 – 2027.02.28
-- Role: Research Assistant
+- Role: Lead Research Assistant
 
 ### Development of Space Weather Analysis and Prediction Model (A)
 (우주기상 분석 및 예측모델(A) 개발)
 - Period: 2023.03.01 – 2024.08.31
 - Role: Research Assistant
 
-### Development of AI-based Solar Surface Magnetic Field Maps (1,2, and 3/5)
+### Development of AI-based Solar Surface Magnetic Field Maps (1,2,3 and 4/5)
 (인공지능 기반 태양 표면 자기장 지도 개발)
-- Period: 2023.05.01 – 2025.12.31
+- Period: 2023.05.01 – 2026.12.31
 - Role: Research Assistant
 
-### [BK21] Next-Generation Space Exploration Talent Cultivation Team (1 and 2/4)
+### [BK21] Next-Generation Space Exploration Talent Cultivation Team (1, 2 and 3/4)
 ([4단계 BK21] 차세대 우주탐사 인력양성팀)
-- Period: 2024.03.01 – 2026.02.28
+- Period: 2024.03.01 – 2027.02.28
 - Role: Research Assistant
 
 
@@ -124,9 +124,9 @@
 - Period: 2025.03.01 – 2026.02.28
 - Role: Research Assistant
 
-### [G-LAMP] Focused Theme Research Institute - Space AI (1/3)
+### [G-LAMP] Focused Theme Research Institute - Space AI (1 and 2/3)
 ([G-LAMP] 중점테마연구소_우주 인공지능_1단계)
-- Period: 2025.11.01 – 2026.02.28
+- Period: 2025.11.01 – 2027.02.28
 - Role: Research Assistant
 
 ### [BK21] Khreative U+ Happy Lab 1.0 (Solar and Space Weather Lab)
