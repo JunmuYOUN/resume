@@ -148,7 +148,7 @@
 ## Skills
 
 **Programming Languages:**  
-Python(Expert), C++(Basic)    
+Python(Expert), C++(Intermediate)    
 
 
 ---
