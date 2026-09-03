@@ -46,6 +46,8 @@
 
 
 ### Co-Author
+- "A Data-Driven Empirical Formula for Solar Wind Speed Prediction Using Symbolic Regression"
+  (Ahn et al., 2026, ApjS accepted)
 - "Fine Structures of Tiny Quiet Sun Jets Observed by Solar Orbiter and Big Bear Solar Observatory"
   (Lee et al., 2025, ApjL)
 - "Artificial-intelligence-based Reconstruction of Solar Farside Vector Magnetograms from Multispacecraft Extreme-ultraviolet Data"
@@ -73,6 +75,8 @@
 ## Presentation (Main Author)
 
 **2026**
+- AI Enabled Space Weather: Space AI, Deep Learning and Explainable AI for NIR Aurora Classification in Satellite Time-Series Images (UN-ISWI, Seoul, South Korea, 2026) | Invited Talks 
+- An AI Agent Harness for Space Weather Research: STIX-to-GOES Reconstruction (UN-ISWI, Seoul, South Korea, 2026) | Poster
 - Detecting Aurora in the Near-Infrared from Space: A Deep Learning Approach with Explainable AI (CEDAR, Des Moines, USA, 2026) | Poster
 - Preliminary DEM Analysis of AR13664 Using SO/FSI and SDO/AIA with Deep Learning (Solar Orbiter–IRIS–Aditya Joint Workshop, Berlin, Germany, 2026) | Poster 
 
@@ -94,6 +98,10 @@
 
 
 ## Projects
+### Exploratory Study for R&D of AI-based Mid- to Long-term Space Environment Prediction Technology
+(AI 기반 중장기 우주환경 예측기술 연구 개발을 위한 탐색연구(1/1))
+- Period: 2026.03.01 – 2027.02.28
+- Role: Research Assistant
 
 ### Development of Space Weather Analysis and Prediction Model (A)
 (우주기상 분석 및 예측모델(A) 개발)
@@ -117,7 +125,7 @@
 - Role: Research Assistant
 
 ### [G-LAMP] Focused Theme Research Institute - Space AI (1/3)
-([G-LAMP] 중점테마연구소_우주 인공지능 _1단계)
+([G-LAMP] 중점테마연구소_우주 인공지능_1단계)
 - Period: 2025.11.01 – 2026.02.28
 - Role: Research Assistant
 
@@ -128,7 +136,7 @@
 
 ## Awards
 
-- **2nd Place**, The 2nd KASI-KAIST Space AI Competition (2025)
+- **3rd Place**, The 2nd KASI-KAIST Space AI Competition (2025)
   - *Topic: [Coronal Mass Ejection (CME) Detection using Deep Learning]*
 - **1st Prize**, On-campus Academic Conference, Dept. of Physics, The Catholic University of Korea (2021)
   - *Topic: [Application of Deep Convolutional Neural Networks to the Forecast of Solar Flare Occurrence Using Full-disk SDO/HMI Images: A Replication Study]*
